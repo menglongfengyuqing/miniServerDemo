@@ -1,0 +1,1 @@
+http://binary.ac.cn/weixin-java-miniapp-javadoc/
