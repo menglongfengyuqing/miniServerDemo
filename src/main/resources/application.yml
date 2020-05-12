@@ -1,0 +1,12 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: mini-project
+wx:
+  miniapp:
+    appid: wx8a4f4e2998733435 #wxbbad491690af0212(cic) #
+    secret: 2ccc2d280d3c6b04ae5000cf17375886 #87cea71198666e286feada8be9f62218(cic) #
+    token: antloiter
+    aesKey: Aaa111
+    msgDataFormat: JSON
